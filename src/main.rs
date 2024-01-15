@@ -4,5 +4,5 @@ fn main() {
     // let a: &str = "red";
     println!("Goodbye, Vikram!");
 
-    let my_favorite_color = "red";
+    let _my_favorite_color = "red";
 }
